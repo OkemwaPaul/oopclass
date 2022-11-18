@@ -1,0 +1,2 @@
+We will create a class Bicycle class. We will then create hierachy to show inheritance
+as a key feature of OPP. Note all Objects inherit from the Object class in Java.
